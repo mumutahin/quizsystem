@@ -1,0 +1,27 @@
+# Maven target folder
+/target/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite database (don't push your live DB)
+data/quizsystem.db
+
+# Eclipse
+.settings/
+bin/
+
+# Temporary files
+*.tmp
